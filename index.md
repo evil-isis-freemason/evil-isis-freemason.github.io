@@ -2,7 +2,11 @@ FACT PART 1 - SCREENSHOTS
 
 fact 1: hamas (Palestine Liberation Organization) logo has a israel map on its top
 
+blob:[picture](https://raw.githubusercontent.com/evil-isis-freemason/evil-isis-freemason.github.io/main/Hamas_logo.png)
+
 fact 2: isis twitter name is 33
+
+blob:[picture](https://raw.githubusercontent.com/evil-isis-freemason/evil-isis-freemason.github.io/main/ISISFREEMASON11区人民的提问.jpg)
 
 
 
